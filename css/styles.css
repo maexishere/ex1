@@ -11,3 +11,18 @@ a:visited {color: rgb(162, 128, 190);}
 a:link {color: rgb(192, 53, 118);}
 a:hover {color: rgb(135, 143, 250);}
 a:active {color: rgb(165, 170, 253);}
+
+table, tr, td {
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+  }
+  
+  td {
+    text-align: center;
+    width: 25px;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
